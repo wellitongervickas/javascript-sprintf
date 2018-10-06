@@ -1,0 +1,23 @@
+{
+  "name": "javascript-sprintf",
+  "version": "1.0.0",
+  "description": "javascript sprintf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellitongervickas/javascript-sprintf.git"
+  },
+  "keywords": [
+    "javascript",
+    "sprintf"
+  ],
+  "author": "Welliton Gervickas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellitongervickas/javascript-sprintf/issues"
+  },
+  "homepage": "https://github.com/wellitongervickas/javascript-sprintf#readme"
+}
