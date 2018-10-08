@@ -19,6 +19,4 @@ const sprintf = (text, ...rest) => {
   return;
 }
 
-export {
-  sprintf
-}
+export default sprintf;
